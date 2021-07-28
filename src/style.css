@@ -1,0 +1,141 @@
+body {
+  background: linear-gradient(
+    112.1deg,
+    rgb(32, 38, 57) 11.4%,
+    rgb(63, 76, 119) 70.2%
+  );
+}
+h1 {
+  margin-bottom: 0;
+  font-size: 50px;
+  color: #374045;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 2px;
+}
+h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #374045;
+}
+h3 {
+  display: inline;
+}
+h5 {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 2px;
+  color: #374045;
+}
+
+h6,
+p,
+span,
+div {
+  color: #374045;
+  font-family: "Montserrat", sans-serif;
+}
+form {
+  text-align: center;
+}
+a {
+  color: #374045;
+  text-decoration: none;
+}
+ul {
+  display: inline;
+  list-style-type: none;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+}
+button {
+  background-color: #548ca800;
+  border: none;
+}
+.heading5 {
+  font-size: 30px;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 2px;
+  color: #374045;
+}
+.container {
+  margin-top: 50px;
+}
+.border {
+  padding-top: 20px;
+}
+.searchbar {
+  text-align: center;
+  display: inline;
+}
+.cityicon {
+  color: #548ca8;
+
+  font-size: 20px;
+}
+
+.searchButton {
+  background-color: #548ca8;
+  color: #e4e4e4;
+  margin-left: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.information {
+  font-size: 26px;
+  border-left: 1px solid #c7c9ca;
+  padding-top: 0px;
+  padding-left: 50px;
+  line-height: 1.3;
+}
+.unitHeading {
+  letter-spacing: 2px;
+  font-size: 16px;
+}
+.forecast {
+  background: none;
+}
+.bignumber {
+  font-size: 150px;
+  font-weight: 900;
+  margin: 0;
+  padding: 0;
+}
+.info {
+  font-size: 20px;
+}
+.iconbig {
+  font-size: 200px;
+  color: #548ca8;
+}
+
+.iconsmall {
+  font-size: 50px;
+  color: #548ca8;
+  margin-bottom: 15px;
+}
+.dayTemp {
+  font-size: 10px;
+  padding-top: 0px;
+}
+.sunicon {
+  font-size: 15px;
+}
+.arrowup {
+  font-size: 15px;
+  display: inline;
+}
+.arrowdown {
+  font-size: 15px;
+}
+.units {
+  font-size: 23px;
+
+  padding-bottom: 50px;
+  padding-left: 0px;
+}
+
+.forecast:hover {
+  background: #eeeeee;
+}
