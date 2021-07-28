@@ -53,6 +53,16 @@ button {
   background-color: #548ca800;
   border: none;
 }
+
+
+.codedBy{
+color: #eeeeee;
+  font-size: 10px;
+  padding-bottom: 40px;
+  padding-top: 0px;
+margin-top: -40px;
+
+}
 .heading5 {
   font-size: 30px;
   font-family: "Bebas Neue", sans-serif;
@@ -64,6 +74,7 @@ button {
 }
 .border {
   padding-top: 20px;
+  margin: 5px;
 }
 .searchbar {
   text-align: center;
@@ -135,7 +146,9 @@ button {
   padding-bottom: 50px;
   padding-left: 0px;
 }
-
+.codedBy:hover{
+  color: #548ca8;
+}
 .forecast:hover {
   background: #eeeeee;
 }
